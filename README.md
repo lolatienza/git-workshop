@@ -1,1 +1,1 @@
-# git-workshop
+# Our Git & GitHub Workshop Test Repository
